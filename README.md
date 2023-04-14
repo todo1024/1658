@@ -1,2 +1,192 @@
 # 1658
 贪心-首席AI架构师 | 完结
+
+### 微:NoBug1024 
+
+
+课程介绍：
+
+
+从更宽的视角来梳理清楚深度学习框架、AI应用、部署上线的整个环节，让你在AI职业规划上可以多一些选择。
+
+课程还会通过 对系统底层原理和算法的深度挖掘 ，提高你的认知水平，让你在行业中更具竞争力。
+〖课程目录〗:
+
+- ├──第01周 开班典礼  
+- |   ├──开班典礼1_ev.mp4  70.31M
+- |   ├──开班典礼2_ev.mp4  72.21M
+- |   └──开班典礼3_ev.mp4  73.84M
+- ├──第02周 基础理论及课程介绍  
+- |   ├──lecture1_ev.mp4  193.07M
+- |   ├──lecture2_ev.mp4  153.55M
+- |   ├──review1_ev.mp4  72.21M
+- |   ├──review2_ev.mp4  553.61M
+- |   └──review3_ev.mp4  461.53M
+- ├──第03周 并行及分布式框架概述  
+- |   ├──01.框架概述  
+- |   |   ├──并行及分布式框架概述1_ev.mp4  202.95M
+- |   |   ├──并行及分布式框架概述2_ev.mp4  126.04M
+- |   |   ├──并行及分布式框架概述3_ev.mp4  202.55M
+- |   |   ├──并行及分布式框架概述4_ev.mp4  199.70M
+- |   |   └──并行及分布式框架概述5_ev.mp4  52.21M
+- |   ├──02.代码实战  
+- |   |   ├──代码实战课程1_ev.mp4  80.42M
+- |   |   ├──代码实战课程2_ev.mp4  102.53M
+- |   |   └──代码实战课程3_ev.mp4  136.19M
+- |   └──03.阅读paper  
+- |   |   ├──如何阅读Paper1_ev.mp4  114.80M
+- |   |   └──如何阅读Paper2_ev.mp4  57.78M
+- ├──第04周 环境安装与gitlab的使用  
+- |   ├──01.环境安装与gitlab的使用  
+- |   |   ├──环境安装与gitlab的使用1_ev.mp4  75.96M
+- |   |   └──环境安装与gitlab的使用2_ev.mp4  62.13M
+- |   ├──02.经典并行模式  
+- |   |   ├──经典并行模式1_ev.mp4  130.00M
+- |   |   └──经典并行模式2_ev.mp4  98.41M
+- |   └──03.Speaker-Aware Talking-Head Animation  
+- |   |   ├──SpeakerAwareTalkingHeadAnimation1_ev.mp4  105.57M
+- |   |   └──SpeakerAwareTalkingHeadAnimation2_ev.mp4  60.46M
+- ├──第05周 卷积结构及其计算  
+- |   ├──01.卷积结构及其计算  
+- |   |   ├──卷积结构及其计算1_ev.mp4  237.97M
+- |   |   ├──卷积结构及其计算2_ev.mp4  152.39M
+- |   |   ├──卷积结构及其计算3_ev.mp4  197.29M
+- |   |   └──卷积结构及其计算4_ev.mp4  147.72M
+- |   ├──02.EFFICIENT WINOGRAD CONVOLUTION VIA INTEGER ARITHMETIC  
+- |   |   ├──EFFICIENTWINOGRADCONVOLUTIONVIAINTEGERARITHMETIC1_ev.mp4  39.57M
+- |   |   └──EFFICIENTWINOGRADCONVOLUTIONVIAINTEGERARITHMETIC2_ev.mp4  105.70M
+- |   └──03.前后向算法  
+- |   |   ├──前后向算法1_ev.mp4  123.71M
+- |   |   └──前后向算法2_ev.mp4  229.41M
+- ├──第06周 目标检测算法  
+- |   ├──01.目标检测算法  
+- |   |   ├──目标检测算法1_ev.mp4  279.75M
+- |   |   ├──目标检测算法2_ev.mp4  296.25M
+- |   |   ├──目标检测算法3_ev.mp4  209.66M
+- |   |   ├──目标检测算法4_ev.mp4  140.39M
+- |   |   └──目标检测算法5_ev.mp4  217.01M
+- |   └──02.Distilling the Knowledge in a Neural Network  
+- |   |   └──DistillingtheKnowledgeinaNeuralNetwork_ev.mp4  102.86M
+- ├──第07周 Lecture1 NvidiaTensort核心算法和Plugin开发  
+- |   ├──Lecture1NvidiaTensort核心算法和Plugin开发  
+- |   |   ├──NvidiaTensort核心算法和Plugin开发-01_ev.mp4  82.74M
+- |   |   ├──NvidiaTensort核心算法和Plugin开发2_ev.mp4  200.50M
+- |   |   ├──NvidiaTensort核心算法和Plugin开发3_ev.mp4  120.40M
+- |   |   └──NvidiaTensort核心算法和Plugin开发4_ev.mp4  125.73M
+- |   └──PaperDistillingheKnowledgeinaNeuralNetwork  
+- |   |   └──Paper Distilling the Knowledge in a Neural Network_ev.mp4  116.32M
+- ├──第08周 TensoRT详讲 真实环境下的代码操作  
+- |   ├──DynamicetworkSurgeryorEfficientDNNs  
+- |   |   └──DynamicNetworkSurgeryforEfficientDNNs_ev.mp4  95.65M
+- |   ├──LectureTensoRT详讲真实环境下的代码操作  
+- |   |   ├──TensoRT详讲真实环境下的代码操作1_ev.mp4  210.15M
+- |   |   ├──TensoRT详讲真实环境下的代码操作2_ev.mp4  269.93M
+- |   |   ├──TensoRT详讲真实环境下的代码操作3_ev.mp4  217.69M
+- |   |   └──TensoRT详讲真实环境下的代码操作4_ev.mp4  288.49M
+- |   └──TensorRTpluginnmsPlugin这个plugin插件的具体  
+- |   |   ├──插件的具体代码实现1_ev.mp4  230.12M
+- |   |   ├──插件的具体代码实现2_ev.mp4  107.04M
+- |   |   └──插件的具体代码实现3_ev.mp4  231.65M
+- ├──第09周 个性化语音合成项目技术概览  
+- |   ├──Improving Neural Network Quantization without Retraining using  
+- |   |   └──ImprovingNeuralNetworkQuantization_ev.mp4  135.57M
+- |   ├──Lecture 个性化语音合成项目技术概览  
+- |   |   ├──个性化语音合成项目技术概览1_ev.mp4  124.58M
+- |   |   ├──个性化语音合成项目技术概览2_ev.mp4  80.55M
+- |   |   └──个性化语音合成项目技术概览3_ev.mp4  124.51M
+- |   └──TensorRT SSD 推理  
+- |   |   ├──TensorRTSSD推理1_ev.mp4  63.07M
+- |   |   └──TensorRTSSD推理2_ev.mp4  133.63M
+- ├──第10周 计算图表示及优化  
+- |   ├──WorkshopData-Free Knowledge Distillation for Deep Neural Networks  
+- |   |   └──DataFreeKnowledgeDistillationforDeepNeuralNetworks_ev.mp4  80.75M
+- |   └──计算图表示及优化  
+- |   |   ├──计算图表示及优化1_ev.mp4  38.16M
+- |   |   ├──计算图表示及优化2_ev.mp4  92.30M
+- |   |   ├──计算图表示及优化3_ev.mp4  164.69M
+- |   |   └──计算图表示及优化4_ev.mp4  111.40M
+- ├──第11周 Attention-Based Seq2Seq模型Tacotron2-Lecture  
+- |   ├──1-Lecture Attention-Based Seq2Seq模型Tacotron2  
+- |   |   ├──AttentionBasedSeq2Seq模型Tacotron21_ev.mp4  120.75M
+- |   |   ├──AttentionBasedSeq2Seq模型Tacotron22_ev.mp4  210.96M
+- |   |   ├──AttentionBasedSeq2Seq模型Tacotron23_ev.mp4  115.59M
+- |   |   └──AttentionBasedSeq2Seq模型Tacotron240_ev.mp4  118.27M
+- |   ├──2-Workshop 说话人特征提取技术实现及环境搭建  
+- |   |   ├──说话人特征提取技术实现及环境搭建1_ev.mp4  65.78M
+- |   |   └──说话人特征提取技术实现及环境搭建2_ev.mp4  101.31M
+- |   ├──3-Workshop Rethinking the Smaller  
+- |   |   ├──RethinkingtheSmaller1_ev.mp4  69.07M
+- |   |   └──RethinkingtheSmaller2_ev.mp4  101.27M
+- |   └──4-Workshop 代码练习  
+- |   |   └──代码练习1_ev.mp4  54.08M
+- ├──第12周 声码器Wave序列生成算法实战-Lecture  
+- |   ├──PAYINGMOREATTENTIONTOATTENTIONIMPROVINGTHEPERFORMANCE_ev.mp4  108.82M
+- |   ├──Tacotron2合成模型实现1_ev.mp4  67.94M
+- |   ├──Tacotron2合成模型实现2_ev.mp4  263.98M
+- |   ├──声码器Wave序列生成算法实战1_ev.mp4  145.56M
+- |   ├──声码器Wave序列生成算法实战2_ev.mp4  200.38M
+- |   ├──声码器Wave序列生成算法实战3_ev.mp4  182.12M
+- |   └──声码器Wave序列生成算法实战4_ev.mp4  211.22M
+- ├──第13周 tensorrt实战  
+- |   ├──PerformanceGuaranteedNetworkAccelerationviaHighOrderResidualQuantization_ev.mp4  76.51M
+- |   ├──tensorrt实战1_ev.mp4  191.30M
+- |   ├──tensorrt实战2_ev.mp4  254.85M
+- |   ├──tensorrt实战3_ev.mp4  151.33M
+- |   ├──tensorrt实战4_ev.mp4  328.96M
+- |   └──tensorrt实战5_ev.mp4  306.63M
+- ├──第14周 推荐系统概览  
+- |   ├──SimpleResourceConstrainedStructureLearningofDeepNetworks_ev.mp4  129.02M
+- |   ├──常用Attention的实现1_ev.mp4  45.81M
+- |   ├──常用Attention的实现2_ev.mp4  169.20M
+- |   ├──推荐系统概览1_ev.mp4  178.44M
+- |   ├──推荐系统概览2_ev.mp4  133.73M
+- |   ├──推荐系统概览3_ev.mp4  213.93M
+- |   ├──推荐系统概览4_ev.mp4  248.53M
+- |   ├──作业讲解1_ev.mp4  53.25M
+- |   └──作业讲解2_ev.mp4  174.90M
+- ├──第15周 分布式参数服务器  
+- |   ├──HorovodfastandeasydistributeddeeplearninginTensorFlow_ev.mp4  86.91M
+- |   ├──Horovodtensorflow应用1_ev.mp4  51.37M
+- |   ├──Horovodtensorflow应用2_ev.mp4  151.91M
+- |   ├──分布式参数服务器1_ev.mp4  148.62M
+- |   ├──分布式参数服务器2_ev.mp4  144.48M
+- |   ├──分布式参数服务器3_ev.mp4  191.60M
+- |   └──分布式参数服务器4_ev.mp4  168.73M
+- ├──第16周 分布式推荐系统实战  
+- |   ├──Difacto中SGD算法的实现1_ev.mp4  118.58M
+- |   ├──Difacto中SGD算法的实现2_ev.mp4  83.10M
+- |   ├──DistributedTrainingStrategiesfortheStructuredPerceptron_ev.mp4  147.34M
+- |   ├──Mixed Precision Training_ev.mp4  75.66M
+- |   ├──分布式推荐系统实战1_ev.mp4  108.52M
+- |   ├──分布式推荐系统实战2_ev.mp4  97.71M
+- |   ├──分布式推荐系统实战3_ev.mp4  119.08M
+- |   ├──分布式推荐系统实战4_ev.mp4  74.30M
+- |   ├──分布式推荐系统实战5_ev.mp4  157.48M
+- |   ├──深度学习框架技术-1_ev.mp4  174.41M
+- |   ├──深度学习框架技术-2_ev.mp4  180.82M
+- |   ├──深度学习框架技术-3_ev.mp4  114.44M
+- |   └──深度学习框架技术-4_ev.mp4  108.61M
+- ├──第17周 训练加速高级技术1  
+- |   ├──Local SGD Converges Fast and Communicates Little_ev.mp4  125.55M
+- |   ├──TNN高效存储管理机制-1_ev.mp4  111.50M
+- |   ├──TNN高效存储管理机制-2_ev.mp4  130.82M
+- |   ├──训练及预测加速高级技术-1_ev.mp4  48.01M
+- |   ├──训练及预测加速高级技术-2_ev.mp4  110.49M
+- |   ├──训练及预测加速高级技术-3_ev.mp4  81.06M
+- |   ├──训练及预测加速高级技术-4_ev.mp4  130.31M
+- |   ├──训练及预测加速高级技术-5_ev.mp4  76.80M
+- |   └──训练及预测加速高级技术-6_ev.mp4  236.74M
+- ├──第18周 训练及预测加速高级技术  
+- |   ├──模型压缩技术实现-1_ev.mp4  68.00M
+- |   ├──模型压缩技术实现-2_ev.mp4  112.14M
+- |   ├──训练加速高级技术1-1_ev.mp4  82.47M
+- |   ├──训练加速高级技术1-2_ev.mp4  70.43M
+- |   ├──训练加速高级技术1-3_ev.mp4  120.05M
+- |   ├──训练加速高级技术1-4_ev.mp4  104.96M
+- |   ├──训练加速高级技术1-5_ev.mp4  166.27M
+- |   └──训练加速高级技术1-6_ev.mp4  140.12M
+- └──第19周 最后一课  
+- |   ├──Fast Locality Sensitive Hashing for Beam Search on GPU_ev.mp4  102.21M
+- |   ├──最后一课-1_ev.mp4  47.53M
+- |   └──最后一课-2_ev.mp4  57.14M
+
